@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jankulosky&label=Profile%20views&color=0e75b6&style=flat" alt="jankulosky" /> </p>
 
-Full-Stack Developer with a passion for crafting efficient, user-centric applications.
+Full-stack software developer with a Bachelor's in Computer Science, passionate about building and delivering high-quality software solutions using proven methodologies/practices and technologies (.NET, Node.js, Express.js, LoopBack 4, Angular, React, Next.js, MariaDB, PostgreSQL).
 
-Strong background in designing and implementing robust back-end architectures, intuitive front-end interfaces and seamless user experiences.
-
-
+Strong understanding of software development principles and experienced in all aspects of the software development lifecycle. Motivated to learn, grow and thrive in collaborative team environments.
 
 - 👨‍💻 All of my projects are available at **[https://jankulosky.github.io/](https://jankulosky.github.io/)**
 
